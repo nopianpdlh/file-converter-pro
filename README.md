@@ -341,10 +341,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Your Name**
 
-- 🌐 Website: [your-website.com](https://nopianpdlh.vercel.app/)
+- 🌐 Website: [nopianpdlh](https://nopianpdlh.vercel.app/)
 - 📧 Email: novianfadhilah03@gmail.com
-- 🐙 GitHub: [@yourusername](https://github.com/nopianpdlh)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- 🐙 GitHub: [@nopianpdlh](https://github.com/nopianpdlh)
+- 💼 LinkedIn: [nopianpldh](https://linkedin.com/in/your-linkedin)
 
 ---
 
