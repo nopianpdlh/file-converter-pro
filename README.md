@@ -373,7 +373,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <strong>Your Name</strong></p>
+  <p>Made with ❤️ by <strong>Novian Fadhilah</strong></p>
   <p>🚀 <strong>File Converter Pro</strong> - Konversi File Mudah & Aman</p>
 </div>
   {
